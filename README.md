@@ -1,1 +1,1 @@
-# IMAGE PROCESSING = Box-Detection-With-Yolo-v3-tiny (OPEN CV)
+# IMAGE PROCESSING = Box-Detection-With-Yolo-v3-tiny
